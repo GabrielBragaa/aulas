@@ -1,2 +1,2 @@
-# aulas
-Exemplos usados nos cursos
+# Aulas
+Exemplos usados nos cursos.
