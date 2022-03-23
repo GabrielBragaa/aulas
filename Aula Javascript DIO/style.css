@@ -1,0 +1,9 @@
+@viewport {
+    zoom: 1.0;
+    width: device-width;
+}
+
+@-ms-viewport {
+    zoom: 1.0;
+    width: device-width;
+}
